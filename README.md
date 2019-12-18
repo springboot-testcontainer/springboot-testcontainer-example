@@ -1,1 +1,1 @@
-# spring-testcontainer-example
+# springtainer-example
